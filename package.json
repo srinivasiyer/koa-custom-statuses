@@ -1,0 +1,35 @@
+{
+  "name": "koa-custom-statuses",
+  "version": "1.0.0",
+  "description": "A tiny library to add or overwrite koa status codes allowing for custom status codes and status messages",
+  "main": "lib/customStatusCodes.js",
+
+  "scripts": {
+    "test": "NODE_ENV=test mocha --harmony --require should --reporter spec",
+    "test-cov": "NODE_ENV=test node --harmony ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --require should",
+    "test-travis": "NODE_ENV=test node --harmony ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --require should"
+  },
+
+  "keywords": [
+    "koa",
+    "statusCodes",
+    "statusMessage",
+    "custom status codes"
+  ],
+  "author": "Srinivas Iyer",
+  "license": "MIT",
+  "dependencies": {
+    "merge-descriptors": "^1.0.0",
+    "statuses": "^1.2.1"
+  },
+  "devDependencies": {
+    "istanbul-harmony": "^0.3.16",
+    "koa": "^1.0.0",
+    "mocha": "^2.3.2",
+    "should": "^7.1.0",
+    "supertest": "^1.1.0"
+  },
+  "engines": {
+    "node": ">= 0.11"
+  }
+}
