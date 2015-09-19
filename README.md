@@ -12,8 +12,8 @@
 [npm-url]: https://npmjs.org/package/koa-custom-statuses
 [travis-image]: https://img.shields.io/travis/srinivasiyer/koa-custom-statuses.svg?style=flat-square
 [travis-url]: https://travis-ci.org/srinivasiyer/koa-custom-statuses
-[coveralls-image]: https://img.shields.io/coveralls/koajs/qs.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/koajs/qs?branch=master
+[coveralls-image]: https://img.shields.io/coveralls/srinivasiyer/koa-custom-statuses.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/srinivasiyer/koa-custom-statuses?branch=master
 [david-image]: https://img.shields.io/david/srinivasiyer/koa-custom-statuses.svg?style=flat-square
 [david-url]: https://david-dm.org/srinivasiyer/koa-custom-statuses
 [iojs-image]: https://img.shields.io/badge/io.js-%3E=_1.0-yellow.svg?style=flat-square
