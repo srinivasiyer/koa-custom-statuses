@@ -8,20 +8,20 @@
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/koa-qs.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/koa-qs
-[travis-image]: https://img.shields.io/travis/koajs/qs.svg?style=flat-square
-[travis-url]: https://travis-ci.org/koajs/qs
+[npm-image]: https://img.shields.io/npm/v/koa-custom-statuses.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/koa-custom-statuses
+[travis-image]: https://img.shields.io/travis/srinivasiyer/koa-custom-statuses.svg?style=flat-square
+[travis-url]: https://travis-ci.org/srinivasiyer/koa-custom-statuses
 [coveralls-image]: https://img.shields.io/coveralls/koajs/qs.svg?style=flat-square
 [coveralls-url]: https://coveralls.io/r/koajs/qs?branch=master
-[david-image]: https://img.shields.io/david/koajs/qs.svg?style=flat-square
-[david-url]: https://david-dm.org/koajs/qs
+[david-image]: https://img.shields.io/david/srinivasiyer/koa-custom-statuses.svg?style=flat-square
+[david-url]: https://david-dm.org/srinivasiyer/koa-custom-statuses
 [iojs-image]: https://img.shields.io/badge/io.js-%3E=_1.0-yellow.svg?style=flat-square
 [iojs-url]: http://iojs.org/
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.11-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
-[download-image]: https://img.shields.io/npm/dm/koa-qs.svg?style=flat-square
-[download-url]: https://npmjs.org/package/koa-qs
+[download-image]: https://img.shields.io/npm/dm/koa-custom-statuses.svg?style=flat-square
+[download-url]: https://npmjs.org/package/koa-custom-statuses
 
 Koa has a defined set of HTTP response codes that can be retured in a request.
 While they are shandard HTTP codes and will be enough most of the time,
