@@ -1,6 +1,6 @@
 {
   "name": "koa-custom-statuses",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "A tiny library to add or overwrite koa status codes allowing for custom status codes and status messages",
   "main": "lib/customStatusCodes.js",
 
@@ -16,7 +16,11 @@
     "statusMessage",
     "custom status codes"
   ],
-  "author": "Srinivas Iyer",
+  "repository": "srinivasiyer/koa-custom-statuses",
+  "author": {
+      "name": "Srinivas Iyer",
+      "email": "srinivasiyer87@gmail.com",
+  },
   "license": "MIT",
   "dependencies": {
     "merge-descriptors": "^1.0.0",
