@@ -19,7 +19,7 @@
   "repository": "srinivasiyer/koa-custom-statuses",
   "author": {
       "name": "Srinivas Iyer",
-      "email": "srinivasiyer87@gmail.com",
+      "email": "srinivasiyer87@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
