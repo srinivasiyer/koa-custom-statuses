@@ -7,6 +7,7 @@
 [![iojs version][iojs-image]][iojs-url]
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/srinivasiyer/koa-custom-statuses/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 [npm-image]: https://img.shields.io/npm/v/koa-custom-statuses.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/koa-custom-statuses
