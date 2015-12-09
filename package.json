@@ -1,6 +1,6 @@
 {
   "name": "koa-custom-statuses",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "A tiny library to add or overwrite koa status codes allowing for custom status codes and status messages",
   "main": "lib/customStatusCodes.js",
 
